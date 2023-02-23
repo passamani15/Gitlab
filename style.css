@@ -1,0 +1,30 @@
+body {
+    font-family: 'Oswald';
+    font-size: 14px;
+    color: #036;
+    }
+
+    h1 {
+    font-family: Arial,Comic Sans MS, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    }
+
+    html {
+    background: url(assets/DungeonMaster.jpg), no-repeat centercenter fixed;
+   
+}
+
+.MainSource {
+    padding: auto;
+}
+
+#textbox { 
+    width: 500px; 
+    margin: 40px auto; 
+    padding: 22px; 
+    background: white; 
+    -moz-box-shadow: 0 0 22px black; 
+    -webkit-box-shadow: 0 0 22px black; 
+    box-shadow: 0 0 22px blue; 
+}
