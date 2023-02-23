@@ -1,4 +1,5 @@
 body {
+    background: url(assets/DungeonMaster.jpg), no-repeat centercenter fixed;
     font-family: 'Oswald';
     font-size: 14px;
     color: #036;
@@ -10,12 +11,7 @@ body {
     font-weight: bold;
     }
 
-    html {
-    background: url(assets/DungeonMaster.jpg), no-repeat centercenter fixed;
-   
-}
-
-.MainSource {
+  .MainSource {
     padding: auto;
 }
 
