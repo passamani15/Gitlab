@@ -1,9 +1,12 @@
 body {
   background-image: url(assets/DungeonMaster.jpg);
-  mask-repeat: no-repeat, center, fixed;
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: 100%, 100%;
   font-family: 'Oswald';
   font-size: 14px;
   color: #036;
+  padding-top: 300px;
 }
 
   h1 {
@@ -31,4 +34,9 @@ body {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 400;
+}
+
+#theDungeonMaster {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
 }
